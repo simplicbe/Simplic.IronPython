@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simplic.IronPython", "Simplic.IronPython\Simplic.IronPython.csproj", "{652E75E3-D402-4FC9-ABA4-D1C5706EC04A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{ADE714F2-1D83-4A4D-A362-66D2A0171C15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.WPF", "Sample.WPF\Sample.WPF.csproj", "{1D9353D5-12B7-4764-AD24-4AB312598530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{652E75E3-D402-4FC9-ABA4-D1C5706EC04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652E75E3-D402-4FC9-ABA4-D1C5706EC04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652E75E3-D402-4FC9-ABA4-D1C5706EC04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652E75E3-D402-4FC9-ABA4-D1C5706EC04A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D9353D5-12B7-4764-AD24-4AB312598530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9353D5-12B7-4764-AD24-4AB312598530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9353D5-12B7-4764-AD24-4AB312598530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9353D5-12B7-4764-AD24-4AB312598530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1D9353D5-12B7-4764-AD24-4AB312598530} = {ADE714F2-1D83-4A4D-A362-66D2A0171C15}
+	EndGlobalSection
+EndGlobal
